@@ -1,13 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2026
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GT-BL", "GT-BL\GT-BL.csproj", "{7F4576F0-D282-4125-A89E-E0045F954713}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GT-WebApi", "GT-WebApi\GT-WebApi.csproj", "{71E711CF-B1B5-4C4E-AFC4-1924A66BCAF4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GT-DL", "GT-DL\GT-DL.csproj", "{E0036512-CE58-4AE0-ACAD-53D1B1232115}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{63FAFB0E-EFAE-4B58-B0BB-BD7AB666FBD4}"
+	ProjectSection(SolutionItems) = preProject
+		..\Web API Labs.pdf = ..\Web API Labs.pdf
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

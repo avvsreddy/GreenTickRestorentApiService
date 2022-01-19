@@ -1,0 +1,61 @@
+﻿[{
+  "Id": 1,
+  "Name": "Hevert",
+  "Category": "Veg",
+  "Price": 1990,
+  "IsAvailable": "Yes"
+}, {
+  "Id": 2,
+  "Name": "Apanol",
+  "Category": "Veg",
+  "Price": 2009,
+  "IsAvailable": "No"
+}, {
+  "Id": 3,
+  "Name": "Docetaxel",
+  "Category": "Non-Veg",
+  "Price": 2011,
+  "IsAvailable": "No"
+}, {
+  "Id": 4,
+  "Name": "antacid",
+  "Category": "Non-Veg",
+  "Price": 2010,
+  "IsAvailable": "No"
+}, {
+  "Id": 5,
+  "Name": "Anti-Diarrheal",
+  "Category": "Non-Veg",
+  "Price": 2006,
+  "IsAvailable": "No"
+}, {
+  "Id": 6,
+  "Name": "Indomethacin",
+  "Category": "Veg",
+  "Price": 2005,
+  "IsAvailable": "Yes"
+}, {
+  "Id": 7,
+  "Name": "Buspirone Hydrochloride",
+  "Category": "Non-Veg",
+  "Price": 1992,
+  "IsAvailable": "No"
+}, {
+  "Id": 8,
+  "Name": "Hydrocodone Bitartrate And Acetaminophen",
+  "Category": "Veg",
+  "Price": 2008,
+  "IsAvailable": "Yes"
+}, {
+  "Id": 9,
+  "Name": "Incontinence",
+  "Category": "Veg",
+  "Price": 2012,
+  "IsAvailable": "No"
+}, {
+  "Id": 10,
+  "Name": "Scotch Pine",
+  "Category": "Veg",
+  "Price": 2001,
+  "IsAvailable": "Yes"
+}]

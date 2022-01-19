@@ -1,0 +1,51 @@
+﻿[{
+  "Id": 1,
+  "Name": "Ford",
+  "CompanyName": "Oyondu",
+  "Price": "$25.37"
+}, {
+  "Id": 2,
+  "Name": "Ford",
+  "CompanyName": "Divape",
+  "Price": "$31.61"
+}, {
+  "Id": 3,
+  "Name": "GMC",
+  "CompanyName": "Dabshots",
+  "Price": "$27.08"
+}, {
+  "Id": 4,
+  "Name": "Lexus",
+  "CompanyName": "Ozu",
+  "Price": "$34.59"
+}, {
+  "Id": 5,
+  "Name": "Hyundai",
+  "CompanyName": "Twinder",
+  "Price": "$20.18"
+}, {
+  "Id": 6,
+  "Name": "Pontiac",
+  "CompanyName": "Ailane",
+  "Price": "$34.34"
+}, {
+  "Id": 7,
+  "Name": "Buick",
+  "CompanyName": "Pixope",
+  "Price": "$36.14"
+}, {
+  "Id": 8,
+  "Name": "Dodge",
+  "CompanyName": "Eabox",
+  "Price": "$29.28"
+}, {
+  "Id": 9,
+  "Name": "Ford",
+  "CompanyName": "Rhycero",
+  "Price": "$31.91"
+}, {
+  "Id": 10,
+  "Name": "BMW",
+  "CompanyName": "Flashspan",
+  "Price": "$22.90"
+}]
